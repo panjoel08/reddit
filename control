@@ -1,0 +1,10 @@
+Package: com.panjoel.reddit
+Name: reddit
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: panjoel
+Author: panjoel
+Section: System
+Tag: role::hacker
